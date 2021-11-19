@@ -3,7 +3,7 @@
 
 - 🌎 I'm from Suzano - SP
 - 🎂 I am 16 years old!
-- 🔭 Looking for an internship!
+- 🔭 Looking for first job!
 - 🌱 I’m currently learning Typescript and "low level" things (TCP/IP, Packet, Binary) and Golang!
 - 🤔 I’m looking for help with things related to low level that I mentioned above, would love to talk to someone that work with it!
 - 💬 Ask me about Typescript, NodeJS, Express and JavaScript.
