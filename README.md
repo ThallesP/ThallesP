@@ -10,3 +10,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/thalles-passos-595477210/
 - 😄 Pronouns: Him/his
 - ⚡ Fun fact: I love the game Minecraft and recently I builded a Minecraft proxy with Golang!
+- 🐧 Linux enthusiast
