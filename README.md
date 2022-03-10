@@ -11,3 +11,4 @@
 - 😄 Pronouns: Him/his
 - ⚡ Fun fact: I love the game Minecraft and recently I builded a Minecraft proxy with Golang!
 - 🐧 Linux enthusiast
+- 🎸 Rock and MPB
