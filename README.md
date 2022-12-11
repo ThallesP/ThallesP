@@ -2,7 +2,7 @@
 
 
 - 🌎 I'm from Suzano - SP
-- 🎂 I am 16 years old!
+- 🎂 I am 17 years old!
 - 🔭 Looking for first job!
 - 🌱 I’m currently learning Serverless
 - 🤔 I’m looking for help with things related to Microservices and Websockets
