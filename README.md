@@ -8,6 +8,6 @@
 - 💬 Ask me about NestJS, NodeJS, Backend, and Typescript.
 - 📫 How to reach me: https://www.linkedin.com/in/thalles-passos-595477210/
 - 😄 Pronouns: Him/his
-- ⚡ Fun fact: I love the game Minecraft and recently I builded a Minecraft proxy with Golang!
+- ⚡ Fun fact: I love the game Minecraft and recently I built a Minecraft proxy with Golang!
 - 🐧 Linux enthusiast
 - 🎸 Rock and MPB
